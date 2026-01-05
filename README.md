@@ -1,5 +1,8 @@
-# 📒 Projeto Agenda de Contatos (PHP + MySQL)
+<h1 align="center">📒 Projeto Agenda de Contatos (PHP + MySQL)</h1>
 
+<p align="center">
+  <img src="Projeto-agenda.gif" width="600">
+</p>
 Este projeto foi desenvolvido como atividade prática do **curso técnico de Informatica para Internet do Senac**, com o objetivo de aplicar conceitos de **programação web**, **PHP estruturado**, **PDO** e **operações CRUD** (Create, Read, Update e Delete).
 
 A aplicação consiste em uma **agenda de contatos**, permitindo cadastrar, visualizar, editar e excluir contatos armazenados em um banco de dados MySQL.
