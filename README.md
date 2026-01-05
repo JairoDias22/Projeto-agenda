@@ -30,7 +30,6 @@ A aplicação consiste em uma **agenda de contatos**, permitindo cadastrar, visu
 ---
 
 ## 📂 Estrutura do Projeto
-## 📂 Estrutura do Projeto
 
 <pre>
 Projeto-agenda/
